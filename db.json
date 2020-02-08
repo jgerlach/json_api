@@ -10,5 +10,14 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todos": [
+    { "id": 1, "title": "Take out trash", "priority": "high", "duration": "5 minutes" },
+    { "id": 2, "title": "Do the dishes", "priority": "medium", "duration": "10 minutes" },
+    { "id": 3, "title": "Vacuum house", "priority": "low", "duration": "30 minutes" },
+    { "id": 4, "title": "Grocery shopping", "priority": "high", "duration": "2 hours" },
+    { "id": 5, "title": "Drop off kids", "priority": "high", "duration": "1 hour" },
+    { "id": 6, "title": "Get oil changed", "priority": "medium", "duration": "2 hours" }
+    { "id": 7, "title": "Get haircut", "priority": "low", "duration": "1 hour" }
+  ]
 }
